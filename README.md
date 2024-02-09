@@ -35,8 +35,8 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@nicknjagi](https://www.frontendmentor.io/profile/nicknjagi)
-- Twitter - [@nick_njagi](https://www.twitter.com/nick_njagi)
+- Frontend Mentor - [@ManuelDinisJunior](https://www.frontendmentor.io/profile/manueldinisjunior)
+- Twitter - [@ManuelDinisJr](https://www.twitter.com/munueldinisjr)
 
 
 
